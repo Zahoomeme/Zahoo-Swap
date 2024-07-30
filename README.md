@@ -1,4 +1,4 @@
-# 🥞 Pancake Frontend
+# 🥞 Zahoo Swap
 
 <p align="center">
   <a href="https://zahoo.io">
