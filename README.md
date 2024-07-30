@@ -1,8 +1,8 @@
 # 🥞 Pancake Frontend
 
 <p align="center">
-  <a href="https://pancakeswap.finance">
-      <img src="https://pancakeswap.finance/logo.png" height="128">
+  <a href="https://zahoo.io">
+      <img src="https://app.zahoo.io/logo.png" height="128">
   </a>
 </p>
 
